@@ -1,11 +1,28 @@
-# Welcome to your Jupyter Book
+# Machine Learning for Robotics
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Cuốn sách này dành cho những bạn mới bắt đầu học và nghiên cứu về machine learning, cũng như ứng dụng của machine learning cho ngành robotics.
 
-Check out the content pages bundled with this sample book to see more.
+Danh sách sơ bộ những chủ đề sẽ được viết:
+1. Kiến thức cơ bản
+   1. Đại số tuyến tính
+   2. Hệ thống tuyến tính
+   3. Xác suất thống kê
+2. Phương pháp học
+   1. Clustering
+   2. Gradient descent
+   3. Linear regression
+   4. Logistic regression
+   5. Học tăng cường (reinforcement learning)
+3. Planning
+   1. RRT, A*
+4. Planning under uncertainty
+   1. Markov decision process
+   2. POMDP và Q-MDP
+   3. Kalman filter
+5. Learning through representation
+   1. Behavior cloning
+   2. DAgger
+   3. Intervention learning
 
 ```{tableofcontents}
 ```
